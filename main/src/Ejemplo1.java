@@ -9,5 +9,9 @@
  * @author Work
  */
 public class Ejemplo1 {
+    String nombre; 
+    String codigo; 
+    int valor; 
+    public Ejemplo1() {}
     
 }
