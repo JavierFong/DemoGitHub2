@@ -13,8 +13,11 @@ public class Ejemplo1 {
     String codigo; 
     int valor; 
     public Ejemplo1() {}
-    public integer getValor() {
+    public int getValor() {
         return valor; 
+    }
+    public String getNombre() { 
+        return nombre; 
     }
     
 }
